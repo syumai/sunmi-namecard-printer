@@ -1,3 +1,4 @@
+// @ts-ignore
 import { SunmiV2Printer } from "react-native-sunmi-v2-printer";
 import { base64TwitterLogo } from "../assets/logo";
 import { profile } from "./profile";
